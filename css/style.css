@@ -1,4 +1,4 @@
 /* Type Selector */
 p {
-  font
+  font-size: 1em; /*16px = 1em, ?pt, 100% */
 }
