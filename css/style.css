@@ -39,6 +39,6 @@ figcaption {
 }
 
 /* Pseudo selector */
-#details a:link, a:visited {
+#details a:link, #details a:visited {
   
 }
